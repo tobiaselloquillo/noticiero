@@ -7,5 +7,7 @@ $portada = [
 "titulo" => "Portada",
 "autor" => "jperez",
 "resumen" => "Las noticias mas importantes del 2025",
+
+"imagen" => "https://picsum.photos/591/242"
 ];
 ?>
