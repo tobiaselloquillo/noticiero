@@ -7,5 +7,7 @@ $ciencia = [
 "titulo" => "Ciencia",
 "autor" => "Psteur",
 "resumen" => "Pasteur hizo pasteurizacion",
+
+"imagen" => "https://picsum.photos/537/258"
 ];
 ?>
