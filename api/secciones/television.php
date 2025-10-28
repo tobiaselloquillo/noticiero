@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $television = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Hacerlo queda",
+"autor" => "Rómulo Sarabia-Suárez",
+"resumen" => "Piel personal hablar.",
 
-"imagen" => "https://picsum.photos/322/296"
+"imagen" => "https://picsum.photos/606/518"
 ];
 ?>

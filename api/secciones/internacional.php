@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $internacional = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Cámara peor padre",
+"autor" => "Araceli Cuesta-Puente",
+"resumen" => "Somos dan n quienes carlos acuerdo.",
 
-"imagen" => "https://picsum.photos/348/302"
+"imagen" => "https://picsum.photos/668/459"
 ];
 ?>

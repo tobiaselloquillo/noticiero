@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $portada = [
-"titulo" => "Portada",
-"autor" => "jperez",
-"resumen" => "Las noticias mas importantes del 2025",
+"titulo" => "Casi cabeza personal unos",
+"autor" => "Nazario Palma Morell",
+"resumen" => "Pablo más algo tienen dijo comenzó.",
 
-"imagen" => "https://picsum.photos/591/242"
+"imagen" => "https://picsum.photos/529/541"
 ];
 ?>

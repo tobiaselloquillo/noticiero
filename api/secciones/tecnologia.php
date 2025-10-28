@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $tecnologia = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Existen mayores",
+"autor" => "Andrea Revilla Morales",
+"resumen" => "País origen hemos van color siquiera. Espacio nuestras amigo dan televisión.",
 
-"imagen" => "https://picsum.photos/481/271"
+"imagen" => "https://picsum.photos/540/531"
 ];
 ?>

@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openshift = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Marco año antonio septiembre",
+"autor" => "Nazaret Barral Canales",
+"resumen" => "Junto cantidad datos violencia frente nos rafael presenta.",
 
-"imagen" => "https://picsum.photos/374/332"
+"imagen" => "https://picsum.photos/603/444"
 ];
 ?>

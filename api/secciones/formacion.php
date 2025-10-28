@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $formacion = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Gabinete de comunicación",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Grande obras partido civil cómo",
+"autor" => "Aníbal de Ruiz",
+"resumen" => "Espacio padre tales. Lenguaje económica proyectos paso metros.",
 
-"imagen" => "https://picsum.photos/591/242"
+"imagen" => "https://picsum.photos/786/520"
 ];
 ?>

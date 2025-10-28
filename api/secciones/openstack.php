@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openstack = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Quién poder pueda dos",
+"autor" => "Maximiano Caro Dalmau",
+"resumen" => "Pueden posibilidades actividad.",
 
-"imagen" => "https://picsum.photos/546/304"
+"imagen" => "https://picsum.photos/406/416"
 ];
 ?>

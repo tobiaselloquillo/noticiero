@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $sociedad = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Conjunto exterior",
+"autor" => "Edelmira Vilanova Castañeda",
+"resumen" => "Poder perdido trabajar nadie tipos últimos primer.",
 
-"imagen" => "https://picsum.photos/578/216"
+"imagen" => "https://picsum.photos/536/545"
 ];
 ?>

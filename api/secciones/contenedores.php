@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $contenedores = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Actividades están primeros sabe rosa podía",
+"autor" => "Octavio de Patiño",
+"resumen" => "Problemas fuerte tribunal sigue.",
 
-"imagen" => "https://picsum.photos/317/291"
+"imagen" => "https://picsum.photos/616/538"
 ];
 ?>

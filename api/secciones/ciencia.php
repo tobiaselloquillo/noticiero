@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $ciencia = [
-"titulo" => "Ciencia",
-"autor" => "Psteur",
-"resumen" => "Pasteur hizo pasteurizacion",
+"titulo" => "Programas solo propios",
+"autor" => "Susanita Araujo Reguera",
+"resumen" => "Imágenes cabo única comunicación durante.",
 
-"imagen" => "https://picsum.photos/537/258"
+"imagen" => "https://picsum.photos/799/463"
 ];
 ?>

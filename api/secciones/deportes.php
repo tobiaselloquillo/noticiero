@@ -4,10 +4,10 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $deportes = [
-"titulo" => "Título de Noticia de Ejemplo",
-"autor" => "Autor de Ejemplo",
-"resumen" => "Este es un breve resumen de la noticia...",
+"titulo" => "Jefe asunto fernando información estos j",
+"autor" => "Esther Peiró-Lledó",
+"resumen" => "Cambio tipos haciendo suficiente.",
 
-"imagen" => "https://picsum.photos/537/258"
+"imagen" => "https://picsum.photos/452/440"
 ];
 ?>
